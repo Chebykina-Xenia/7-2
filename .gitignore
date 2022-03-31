@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store

@@ -1,0 +1,29 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "my first project node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chebykina-Xenia/JavaScript7.2.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "Chebykina-Xenia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chebykina-Xenia/JavaScript7.2/issues"
+  },
+  "homepage": "https://github.com/Chebykina-Xenia/JavaScript7.2#readme",
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "eslint": "^8.12.0",
+    "prettier": "^2.6.1"
+  }
+}
